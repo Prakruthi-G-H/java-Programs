@@ -6,3 +6,5 @@ Programs are added **regularly as part of daily Core Java practice**.
 The implementations include:
 - Usage of **String inbuilt methods**
 - **Manual logic** using loops and conditions
+
+## 📌 Programs Included
