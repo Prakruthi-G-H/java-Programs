@@ -10,4 +10,5 @@ The implementations include:
 ## 📌 Programs Included
 
 | Program Name         | Description                                  |
+|----------------------|----------------------------------------------|
 | ReverseWord.java | Reverses a word using String methods |
