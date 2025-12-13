@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ReverseWordWithoutinbuiltmethod {
 
 	public static void main(String[] args) {
-		Scanner sc=new Scanner(System.in);\
+		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter a word: ");
 		String s=sc.next();
 		char[] arr=s.toCharArray();
@@ -16,5 +16,6 @@ public class ReverseWordWithoutinbuiltmethod {
 	}
 
 }
+
 
 
