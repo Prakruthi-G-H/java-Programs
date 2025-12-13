@@ -8,3 +8,5 @@ The implementations include:
 - **Manual logic** using loops and conditions
 
 ## 📌 Programs Included
+
+| Program Name | Description |
