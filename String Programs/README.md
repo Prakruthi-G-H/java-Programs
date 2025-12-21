@@ -12,6 +12,6 @@ The implementations include:
 | Program Name         | Description                                  |
 |----------------------|----------------------------------------------|
 | ReverseWord.java | Reverses a word using String methods |
-|ReverseWordWithoutinbuiltmethod.java |Reverse a Word Without using inbuilt methods|
+|ReverseWordWithoutinbuiltmethod.java |Reverses a word without using any inbuilt methods|
 |Palindromeword.java | Palindrome a word |
 
