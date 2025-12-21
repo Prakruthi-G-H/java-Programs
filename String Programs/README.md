@@ -12,3 +12,4 @@ The implementations include:
 | Program Name         | Description                                  |
 |----------------------|----------------------------------------------|
 | ReverseWord.java | Reverses a word using String methods |
+|ReverseWordWithoutinbuiltmethod.java |Reverse a Word Without using inbuilt methods|
