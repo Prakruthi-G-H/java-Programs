@@ -18,9 +18,10 @@ public class Palindromeword {
 		} else {
    System.out.println("The given string is not a palindrome.");
 		}	
-		
+		sc.close();
 	}
 
 }
+
 
 
