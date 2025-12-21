@@ -16,10 +16,11 @@ public class Palindromeword {
 		if (s.equals(rev)) {
 			System.out.println("The given string is a palindrome.");
 		} else {
-   System.out.println("String is not a palindrome");
+   System.out.println("The given string is not a palindrome.");
 		}	
 		
 	}
 
 }
+
 
