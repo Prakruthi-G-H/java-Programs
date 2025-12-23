@@ -15,3 +15,6 @@ The implementations include:
 |ReverseWordWithoutinbuiltmethod.java |Reverses a word without using any inbuilt methods|
 |Palindromeword.java | Checks whether a given word is a palindrome |
 
+## 🛠 Technologies Used
+
+- Java (Core Java)
