@@ -29,3 +29,6 @@ These programs are written to:
 - Prepare for technical interviews
 
 Programs are updated regularly as part of **daily Java practice**.
+
+
+## 👩‍💻 Author
