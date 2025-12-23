@@ -18,7 +18,9 @@ public class PalindromeWithoutCharAt{
 	} else {
   System.out.println("Not a Palindrome");
 	}
+		 sc.close();
 	}
 
 }
+
 
