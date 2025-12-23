@@ -11,12 +11,12 @@ Programs are added **regularly as part of daily Core Java practice**.
 
 ## 📌 Programs Included
 
-| Program Name         | Description                                  |
-|----------------------|----------------------------------------------|
-| ReverseWord.java | Reverses a word using String methods |
-|ReverseWordWithoutinbuiltmethod.java |Reverses a word without using any inbuilt methods|
-|Palindromeword.java | Checks whether a given word is a palindrome |
-|PalindromeWithoutCharAt | Checks palindrome without using `charAt()` |
+| Program Name | Description |
+|-------------|------------|
+| `ReverseWord.java` | Reverses a word using String inbuilt methods |
+| `ReverseWordWithoutInbuiltMethod.java` | Reverses a word without using any inbuilt methods |
+| `Palindromeword.java` | Checks whether a given word is a palindrome |
+| `PalindromeWithoutCharAt.java` | Checks a palindrome without using `charAt()` |
 
 ## 🛠 Technologies Used
 
