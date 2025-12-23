@@ -26,3 +26,4 @@ The implementations include:
 These programs are written to:
 - Strengthen Core Java fundamentals
 - Improve logical thinking
+- Prepare for technical interviews
