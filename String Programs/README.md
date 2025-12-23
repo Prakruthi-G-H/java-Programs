@@ -14,6 +14,7 @@ The implementations include:
 | ReverseWord.java | Reverses a word using String methods |
 |ReverseWordWithoutinbuiltmethod.java |Reverses a word without using any inbuilt methods|
 |Palindromeword.java | Checks whether a given word is a palindrome |
+|PalindromeWithoutCharAt | Checks palindrome without using `charAt()` |
 
 ## 🛠 Technologies Used
 
