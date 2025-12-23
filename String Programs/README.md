@@ -27,3 +27,5 @@ These programs are written to:
 - Strengthen Core Java fundamentals
 - Improve logical thinking
 - Prepare for technical interviews
+
+Programs are updated regularly as part of **daily Java practice**.
