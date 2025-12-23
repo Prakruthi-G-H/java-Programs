@@ -21,7 +21,7 @@ Programs are added **regularly as part of daily Core Java practice**.
 ## 🛠 Technologies Used
 
 - Java (Core Java)
-- Eclipse
+- Eclipse IDE
 
 
 ## 🎯 Purpose
