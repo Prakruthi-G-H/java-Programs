@@ -2,7 +2,7 @@ package programming_string;
 
 import java.util.Scanner;
 
-public class PalindromewithoutusingcharAtMethod {
+public class PalindromeWithoutCharAt{
 
 	public static void main(String[] args) {
 //      String s="java";
@@ -21,3 +21,4 @@ public class PalindromewithoutusingcharAtMethod {
 	}
 
 }
+
