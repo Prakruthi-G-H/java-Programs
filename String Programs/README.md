@@ -17,7 +17,7 @@ Programs are added **regularly as part of daily Core Java practice**.
 | `ReverseWordWithoutInbuiltMethod.java` | Reverses a word without using any inbuilt methods |
 | `Palindromeword.java` | Checks whether a given word is a palindrome |
 | `PalindromeWithoutCharAt.java` | Checks a palindrome without using `charAt()` |
-| LengthOfLastWord.java     
+| `LengthOfLastWord.java`   
 
 ## 🛠 Technologies Used
 
