@@ -19,7 +19,8 @@ public class LengthOfLastWord {
 		String s=sc.nextLine();
 		int len=l.lengthoflastword(s);
 		System.out.println(len);
-		
+
+		sc.close();
 	}
 	
 }
