@@ -8,6 +8,8 @@ Programs are added **regularly as part of daily Core Java practice**.
 - Manual logic using loops and conditions
 - String reversal techniques
 - Palindrome checking logic
+- Handling edge cases in String problems (spaces, trimming, indexing)
+
 
 ## 📌 Programs Included
 
