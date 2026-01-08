@@ -13,8 +13,10 @@ public class Factorial {
     for(int i=1;i<=n;i++) {
     	fact=fact*i;
     }
-    sc.close();
+   
     System.out.println("Factorial of "+n+" is "+fact);
+		 sc.close();
 	}
   
 }
+
