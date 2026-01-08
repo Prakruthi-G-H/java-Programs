@@ -53,14 +53,13 @@ Some of the important programs included:
 ✅ Prepares you for interview questions  
 ✅ Hands-on practice for programming rounds  
 
----
+
 
 ## 🛠 Technologies Used
 
 - Language: **Java**
 - IDEs: Eclipse / IntelliJ IDEA  / VS Code
 
----
 
 ## 📌 How to Use
 
