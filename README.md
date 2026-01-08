@@ -44,7 +44,7 @@ Some of the important programs included:
 - Alphabet patterns
 - Diamond and Hourglass shapes
 
----
+
 
 ## 💡 Why This Repository?
 
