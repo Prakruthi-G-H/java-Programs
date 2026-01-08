@@ -21,7 +21,6 @@ This repository is a collection of **Java programs** created to strengthen core 
   - Number patterns  
   - Alphabet patterns  
 
----
 
 ## ✅ Key Highlights
 
