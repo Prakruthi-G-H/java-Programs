@@ -6,7 +6,7 @@ public class LoginValidation {
 	public static void main(String[] args) {
 		String id = "Admin";
 		int password=2158235;
-		if (id=="Admin") {
+		if ("Admin".equals(id)) {
 			System.out.println("User id is Valid");
 			if (password==21569445) {
 				System.out.println("User Password is Valid");
@@ -22,3 +22,4 @@ public class LoginValidation {
 	}
 
 }
+
