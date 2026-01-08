@@ -75,6 +75,6 @@ Some of the important programs included:
 
 ## 👩‍💻 Author
 
-Made with ❤️ by [Prakruthi G H](https://github.com/Prakruthi-G-H)
 
+**Prakruthi G H**  
 
