@@ -68,7 +68,6 @@ Some of the important programs included:
 3. Compile and run the file to check the output.
 4. Modify and play around with logic to improve your skills.
 
----
 
 ## 👩‍💻 Author
 
