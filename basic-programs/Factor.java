@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Factor {
 
 	public static void main(String[] args) {
-		Scanner s = new Scanner(System.in);
+		Scanner s = new Scanner(System.in)https://github.com/Prakruthi-G-H/java-Programs/edit/main/Basic%20Programs/Factor.java;
 		System.out.println("Enter a number");
 		 int n=s.nextInt();
 		 for (int i = 1; i <= n; i++) {
@@ -19,3 +19,4 @@ public class Factor {
 	}
 
 }
+
