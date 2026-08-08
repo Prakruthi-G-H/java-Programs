@@ -50,7 +50,7 @@ Some of the important programs included:
 ## 🎯 Why This Repository?
 
 - ✅ Strengthen Java fundamentals
-✅ Improves logical thinking  
+- ✅ Improve logical thinking and problem-solving skills
 ✅ Prepares you for interview questions  
 ✅ Hands-on practice for programming rounds  
 
