@@ -52,7 +52,7 @@ Some of the important programs included:
 - ✅ Strengthen Java fundamentals
 - ✅ Improve logical thinking and problem-solving skills
 - ✅ Practice programming concepts through hands-on coding  
-✅ Hands-on practice for programming rounds  
+- ✅ Prepare for technical interviews and coding rounds  
 
 
 
