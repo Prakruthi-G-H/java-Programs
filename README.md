@@ -2,7 +2,7 @@
 
 Welcome to the **Java-Programs** repository! 👩‍💻
 
-This repository is a collection of **Java programs** created to strengthen core programming concepts and improve logical thinking. It is especially helpful for **beginners**, **job seekers**, and those preparing for **technical interviews**.
+This repository contains a collection of Java programs created to strengthen core programming concepts, improve logical thinking, and build problem-solving skills. It is especially useful for beginners, job seekers, and those preparing for technical interviews.
 
 
 ## 📂 Folder Structure
