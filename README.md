@@ -49,7 +49,7 @@ Some of the important programs included:
 
 ## 🎯 Why This Repository?
 
-✅ Helps strengthen your Java basics  
+- ✅ Strengthen Java fundamentals
 ✅ Improves logical thinking  
 ✅ Prepares you for interview questions  
 ✅ Hands-on practice for programming rounds  
