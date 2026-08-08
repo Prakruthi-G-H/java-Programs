@@ -1,4 +1,4 @@
-# Java-Programs 🚀
+# Java Programs 🚀
 
 Welcome to the **Java-Programs** repository! 👩‍💻
 
