@@ -46,7 +46,8 @@ Some of the important programs included:
 
 
 
-## 💡 Why This Repository?
+
+## 🎯 Why This Repository?
 
 ✅ Helps strengthen your Java basics  
 ✅ Improves logical thinking  
