@@ -68,7 +68,7 @@ Some of the important programs included:
 2. Open the project in your preferred IDE.
 3. Navigate to any `.java` file.
 4. Compile and run the file to check the output.
-5. Modify and play around with logic to improve your skills.
+5. Modify the code and experiment with the logic to improve your understanding.
 
 
 ## 👩‍💻 Author
