@@ -66,7 +66,7 @@ Some of the important programs included:
 
 1. Clone or download the repository.
 2. Open the project in your preferred IDE.
-3. Open any `.java` file using your preferred IDE.
+3. Navigate to any `.java` file.
 4. Compile and run the file to check the output.
 5. Modify and play around with logic to improve your skills.
 
