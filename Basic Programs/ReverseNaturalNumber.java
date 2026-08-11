@@ -2,7 +2,7 @@ package programs;
 
 import java.util.Scanner;
 
-public class RverseNaturalNumber {
+public class ReverseNaturalNumber {
 
 	public static void main(String[] args) {
 		 int n;
