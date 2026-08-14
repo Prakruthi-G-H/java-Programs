@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern3 {
+public class ColumnNumberPattern {
 
 	public static void main(String[] args) {
 		int n=5;
