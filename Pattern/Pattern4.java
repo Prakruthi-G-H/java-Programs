@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern4 {
+public class ReverseRowNumberPattern {
 
 	public static void main(String[] args) {
 		int n=5;
