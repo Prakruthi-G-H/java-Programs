@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern2 {
+public class RowNumberPattern {
 
 	public static void main(String[] args) {
 		int n=5;
