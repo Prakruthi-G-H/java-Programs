@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern6 {
+public class RightTrianglePattern {
 
 	public static void main(String[] args) {
 
