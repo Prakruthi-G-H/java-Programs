@@ -6,7 +6,7 @@ This repository contains a collection of Java programs created to strengthen Cor
 
 ## 📂 Folder Structure
 
-### Basic Logic Programs 
+### 🧠 Basic Programs 
   - Arithmetic operations  
   - Loops and conditionals  
   - Number theory (prime, factorial, palindrome, etc.)  
