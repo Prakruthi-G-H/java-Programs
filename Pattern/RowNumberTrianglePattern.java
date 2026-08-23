@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern7 {
+public class RowNumberTrianglePattern {
 
 	public static void main(String[] args) {
 		for(int i=1;i<=5;i++)
