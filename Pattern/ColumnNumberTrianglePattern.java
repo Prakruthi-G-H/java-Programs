@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern8 {
+public class ColumnNumberTrianglePattern {
 
 	public static void main(String[] args) {
 		for(int i=1;i<=5;i++)
