@@ -11,7 +11,6 @@ Programs covering fundamental Java logic and problem-solving concepts:
   - Arithmetic operations  
   - Loops and conditionals  
   - Number-based Programs
-  - ASCII and character handling
   - Prime, Factorial, and Perfect Number Programs
   - Palindrome and Reverse Number Programs
   - Even and Odd Number Programs
