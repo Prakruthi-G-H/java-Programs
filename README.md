@@ -10,7 +10,7 @@ This repository contains a collection of Java programs created to strengthen Cor
 Programs covering fundamental Java logic and problem-solving concepts:
   - Arithmetic operations  
   - Loops and conditionals  
-  - Number theory (prime, factorial, palindrome, etc.)  
+  - Number-based Programs
   - ASCII and character handling  
   - Swapping, reverse, series (Fibonacci, natural numbers)  
   - Login and marks validation  
