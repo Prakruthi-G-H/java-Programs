@@ -13,6 +13,7 @@ Programs covering fundamental Java logic and problem-solving concepts:
   - Number-based Programs
   - ASCII and character handling
   - Prime, Factorial, and Perfect Number Programs
+  - Palindrome and Reverse Number Programs
   - Swapping, reverse, series (Fibonacci, natural numbers)  
   - Login and marks validation  
   - Temperature conversion, square root, and more  
