@@ -17,6 +17,7 @@ Programs covering fundamental Java logic and problem-solving concepts:
   - Even and Odd Number Programs
   - Positive and Negative Number Programs
   - Fibonacci Series
+  - Natural Numbers
   - Swapping, reverse, series (Fibonacci, natural numbers)  
   - Login and marks validation  
   - Temperature conversion, square root, and more  
