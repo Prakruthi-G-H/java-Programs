@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern9 {
+public class InvertedRightTrianglePattern {
 
 	public static void main(String[] args) {
 		for(int i=5;i>0;i--)
