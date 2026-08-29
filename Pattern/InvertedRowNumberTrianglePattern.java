@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern10 {
+public class InvertedRowNumberTrianglePattern {
 
 	public static void main(String[] args) {
 		for(int i=5;i>0;i--)
