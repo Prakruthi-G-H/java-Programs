@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern13 {
+public class BinaryPattern {
 
 	public static void main(String[] args) {
 		int n=5;
