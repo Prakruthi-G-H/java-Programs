@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern14 {
+public class CenteredTrianglePattern {
 
 	public static void main(String[] args) {
 		int n=5;
