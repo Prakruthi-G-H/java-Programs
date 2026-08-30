@@ -2,7 +2,7 @@ package pattern;
 
 
 
-public class Pattern12 {
+public class RightAlignedTrianglePattern {
 
 	public static void main(String[] args) 
 	{
