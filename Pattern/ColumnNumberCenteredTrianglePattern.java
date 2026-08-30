@@ -1,6 +1,6 @@
 package pattern;
 
-public class Pattern16 {
+public class ColumnNumberCenteredTrianglePattern {
 
 	public static void main(String[] args) {
 		int n=5;
