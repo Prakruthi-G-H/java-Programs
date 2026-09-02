@@ -18,6 +18,7 @@ Programs covering fundamental Java logic and problem-solving concepts:
   - Fibonacci Series
   - Natural Numbers
   - Power and Square Root
+  - ASCII Values
   - Swapping, reverse, series (Fibonacci, natural numbers)  
   - Login and marks validation  
   - Temperature conversion, square root, and more  
