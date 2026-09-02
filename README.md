@@ -24,6 +24,7 @@ Programs covering fundamental Java logic and problem-solving concepts:
   - Swapping Numbers
   - Validation Programs
   - Temperature Conversion
+  - Area Calculations
   - Swapping, reverse, series (Fibonacci, natural numbers)  
   - Login and marks validation  
   - Temperature conversion, square root, and more  
