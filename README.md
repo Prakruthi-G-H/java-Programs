@@ -22,6 +22,7 @@ Programs covering fundamental Java logic and problem-solving concepts:
   - Vowel and Consonant
   - Leap Year
   - Swapping Numbers
+  - Validation Programs
   - Swapping, reverse, series (Fibonacci, natural numbers)  
   - Login and marks validation  
   - Temperature conversion, square root, and more  
