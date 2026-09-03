@@ -27,7 +27,7 @@ Programs covering fundamental Java logic and problem-solving concepts:
   - Area Calculations
   - And more 
 
-- Pattern  
+⭐ Pattern Programs  
   - Star patterns (pyramids, triangles, diamonds)  
   - Number patterns  
   - Alphabet patterns  
