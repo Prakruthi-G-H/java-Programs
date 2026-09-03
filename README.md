@@ -33,6 +33,7 @@ Programs focused on nested loops, rows, columns, spacing, and pattern-building l
   - Star Patterns
   - Right Triangle Patterns
   - Centered Triangle Patterns
+  - Inverted Triangle Patterns
   - Number patterns  
   - Alphabet patterns  
 
