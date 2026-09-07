@@ -41,6 +41,7 @@ Programs focused on nested loops, rows, columns, spacing, and pattern-building l
   - Row Number Patterns
   - Column Number Patterns
   - Centered Number Patterns
+  - Inverted Number Patterns
 
 
 ## ✅ Key Highlights
