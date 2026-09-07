@@ -37,7 +37,8 @@ Programs focused on nested loops, rows, columns, spacing, and pattern-building l
   - Inverted Triangle Patterns
   - Number patterns
   - Number Triangle Patterns
-  - Alphabet patterns  
+  - Alphabet patterns
+  - Row Number Patterns
 
 
 ## ✅ Key Highlights
