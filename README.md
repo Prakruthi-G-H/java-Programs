@@ -32,6 +32,7 @@ Programs focused on nested loops, rows, columns, spacing, and pattern-building l
   - Binary Patterns
   - Star Patterns
   - Right Triangle Patterns
+  - Right-Aligned Triangle Patterns
   - Centered Triangle Patterns
   - Inverted Triangle Patterns
   - Number patterns
