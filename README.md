@@ -40,6 +40,7 @@ Programs focused on nested loops, rows, columns, spacing, and pattern-building l
   - Alphabet patterns
   - Row Number Patterns
   - Column Number Patterns
+  - Centered Number Patterns
 
 
 ## ✅ Key Highlights
