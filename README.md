@@ -45,6 +45,7 @@ Programs focused on nested loops, rows, columns, spacing, and pattern-building l
   - Square Patterns
   - And more
 
+## 🔤 String Programs
 
 ## ✅ Key Highlights
 
