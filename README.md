@@ -48,7 +48,7 @@ Programs focused on nested loops, rows, columns, spacing, and pattern-building l
 ## 🔤 String Programs
 
 Programs focused on basic string manipulation and problem-solving:
-
+- Reverse a String
 ## ✅ Key Highlights
 
 Some of the important programs included:
