@@ -62,6 +62,7 @@ This repository is created to:
 - Practice Java syntax and programming concepts
 - Improve logical thinking
 - Build problem-solving skills
+- Practice loops and nested loops
  
 ## ✅ Key Highlights
 
