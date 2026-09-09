@@ -61,6 +61,7 @@ This repository is created to:
 - Strengthen Core Java fundamentals
 - Practice Java syntax and programming concepts
 - Improve logical thinking
+- Build problem-solving skills
  
 ## ✅ Key Highlights
 
