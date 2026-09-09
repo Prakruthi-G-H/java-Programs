@@ -58,7 +58,7 @@ Programs focused on basic string manipulation and problem-solving:
 ## 🎯 Purpose of This Repository
 
 This repository is created to:
-✅ Strengthen Core Java fundamentals
+- Strengthen Core Java fundamentals
  
 ## ✅ Key Highlights
 
