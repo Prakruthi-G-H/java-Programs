@@ -56,6 +56,9 @@ Programs focused on basic string manipulation and problem-solving:
 - And more
 
 ## 🎯 Purpose of This Repository
+
+This repository is created to:
+
  
 ## ✅ Key Highlights
 
