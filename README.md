@@ -4,7 +4,6 @@ Welcome to the **Java-Programs** repository! 👩‍💻
 
 This repository contains a collection of Java programs created to strengthen Core Java fundamentals, logical thinking, problem-solving skills, and programming practice. It is especially useful for beginners, freshers, job seekers, and technical interview preparation.
 
-## 📂 Folder Structure
 
 ### 🧠 Basic Programs
 Programs covering fundamental Java logic and problem-solving concepts:
@@ -57,6 +56,10 @@ Programs focused on basic string manipulation and problem-solving:
 
 ## 📁 Folder Structure
 
+```bash
+
+
+```
 
 ## 🎯 Purpose of This Repository
 
