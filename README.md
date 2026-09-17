@@ -65,6 +65,7 @@ java-Programs/
 │ ├── AreaOfCircle.java
 │ ├── Factorial.java
 │ ├── FibonacciSeries.java
+│ ├── PalindromeNumber.java
 ```
 
 ## 🎯 Purpose of This Repository
