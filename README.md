@@ -63,6 +63,7 @@ java-Programs/
 │ ├── ASCIIValues.java
 │ ├── Alphabets.java
 │ ├── AreaOfCircle.java
+│ ├── Factorial.java
 ```
 
 ## 🎯 Purpose of This Repository
