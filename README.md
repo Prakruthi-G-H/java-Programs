@@ -59,6 +59,7 @@ Programs focused on basic string manipulation and problem-solving:
 ```bash
 java-Programs/
 │
+├── basic-programs/
 ```
 
 ## 🎯 Purpose of This Repository
