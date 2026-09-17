@@ -62,6 +62,7 @@ java-Programs/
 ├── basic-programs/
 │ ├── ASCIIValues.java
 │ ├── Alphabets.java
+│ ├── AreaOfCircle.java
 ```
 
 ## 🎯 Purpose of This Repository
