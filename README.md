@@ -74,6 +74,7 @@ java-Programs/
 │ ├── BinaryPattern.java
 │ ├── CenteredTrianglePattern.java
 │ ├── ColumnNumberPattern.java
+│ ├── ColumnNumberTrianglePattern.java
 ```
 
 ## 🎯 Purpose of This Repository
