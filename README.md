@@ -72,6 +72,7 @@ java-Programs/
 │
 ├── pattern-programs/
 │ ├── BinaryPattern.java
+│ ├── CenteredTrianglePattern.java
 ```
 
 ## 🎯 Purpose of This Repository
