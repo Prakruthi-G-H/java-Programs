@@ -73,6 +73,7 @@ java-Programs/
 ├── pattern-programs/
 │ ├── BinaryPattern.java
 │ ├── CenteredTrianglePattern.java
+│ ├── ColumnNumberPattern.java
 ```
 
 ## 🎯 Purpose of This Repository
