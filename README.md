@@ -66,6 +66,7 @@ java-Programs/
 │ ├── Factorial.java
 │ ├── FibonacciSeries.java
 │ ├── PalindromeNumber.java
+│ ├── PrimeNumber.java
 ```
 
 ## 🎯 Purpose of This Repository
