@@ -71,6 +71,7 @@ java-Programs/
 │ └── ...
 │
 ├── pattern-programs/
+│ ├── BinaryPattern.java
 ```
 
 ## 🎯 Purpose of This Repository
