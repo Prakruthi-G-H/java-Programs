@@ -70,6 +70,7 @@ java-Programs/
 │ ├── ReverseNumber.java
 │ └── ...
 │
+├── pattern-programs/
 ```
 
 ## 🎯 Purpose of This Repository
