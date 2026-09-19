@@ -77,6 +77,7 @@ java-Programs/
 │ ├── ColumnNumberTrianglePattern.java
 │ ├── InvertedCenteredTrianglePattern.java
 │ ├── InvertedRightTrianglePattern.java
+│ ├── RightAlignedTrianglePattern.java
 ```
 
 ## 🎯 Purpose of This Repository
