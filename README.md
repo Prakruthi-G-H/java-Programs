@@ -80,6 +80,7 @@ java-Programs/
 │ ├── RightAlignedTrianglePattern.java
 │ ├── RightTrianglePattern.java
 │ ├── RowNumberPattern.java
+│ ├── RowNumberTrianglePattern.java
 ```
 
 ## 🎯 Purpose of This Repository
