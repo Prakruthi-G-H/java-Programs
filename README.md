@@ -88,6 +88,7 @@ java-Programs/
 ├── PalindromeWithoutCharAt.java
 ├── Palindromeword.java
 ├── ReverseWord.java
+├── ReverseWordWithoutinbuiltmethod.java
 ```
 
 ## 🎯 Purpose of This Repository
