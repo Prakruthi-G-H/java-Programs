@@ -86,6 +86,7 @@ java-Programs/
 │
 └── string-programs/
 ├── PalindromeWithoutCharAt.java
+├── Palindromeword.java
 ```
 
 ## 🎯 Purpose of This Repository
