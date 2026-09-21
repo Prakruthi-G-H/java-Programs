@@ -138,7 +138,7 @@ Some of the important programs included:
 ## 🛠 Technologies Used
 
 - Language: **Java**
-- IDEs: Eclipse / IntelliJ IDEA  / VS Code
+- IDEs: Eclipse IDE
 
 
 ## 📌 How to Use
