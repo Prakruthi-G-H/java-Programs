@@ -83,6 +83,7 @@ java-Programs/
 │ ├── RowNumberTrianglePattern.java
 │ ├── SquareStarPattern.java
 │ └── ...
+│
 ```
 
 ## 🎯 Purpose of This Repository
