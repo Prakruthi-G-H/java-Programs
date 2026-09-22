@@ -112,7 +112,7 @@ Some of the important programs included:
 - First Java Program
 - Sum, Difference, Product, Division of numbers
 - Average and Count of numbers
-- Factorial, Fibonacci series, Prime number
+- Factorial and Fibonacci Series
 - Reverse a number, Palindrome check
 - Even, Odd, Positive, Negative number check
 - Leap year, Power of a number
