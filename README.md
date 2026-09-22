@@ -101,6 +101,7 @@ This repository is created to:
 - Build problem-solving skills
 - Practice loops and nested loops
 - Improve number and string manipulation skills
+- Prepare for coding rounds and technical interviews
  
 ## ✅ Key Highlights
 
