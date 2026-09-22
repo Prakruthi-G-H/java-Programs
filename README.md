@@ -128,16 +128,6 @@ Some of the important programs included:
 
 
 
-
-## 🎯 Why This Repository?
-
-- ✅ Strengthen Java fundamentals
-- ✅ Improve logical thinking and problem-solving skills
-- ✅ Practice programming concepts through hands-on coding  
-- ✅ Prepare for technical interviews and coding rounds  
-- ✅ Build consistency through regular Java practice
-
-
 ## 🛠 Technologies Used
 
 - Language: **Java**
