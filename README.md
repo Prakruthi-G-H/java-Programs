@@ -102,6 +102,7 @@ This repository is created to:
 - Practice loops and nested loops
 - Improve number and string manipulation skills
 - Prepare for coding rounds and technical interviews
+- Maintain a collection of Java practice programs
  
 ## ✅ Key Highlights
 
