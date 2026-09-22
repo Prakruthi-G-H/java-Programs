@@ -113,6 +113,7 @@ Some of the important programs included:
 - Sum, Difference, Product, Division of numbers
 - Average and Count of numbers
 - Factorial and Fibonacci Series
+- Prime and Perfect Number
 - Reverse a number, Palindrome check
 - Even, Odd, Positive, Negative number check
 - Leap year, Power of a number
