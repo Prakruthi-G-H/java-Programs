@@ -115,6 +115,7 @@ Some of the important programs included:
 - Factorial and Fibonacci Series
 - Prime and Perfect Number
 - Palindrome and Reverse Number
+- Even and Odd Numbers
 - Even, Odd, Positive, Negative number check
 - Leap year, Power of a number
 - ASCII value finder, Vowel or consonant
