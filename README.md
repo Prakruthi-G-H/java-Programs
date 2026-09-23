@@ -119,6 +119,7 @@ Some of the important programs included:
 - Positive and Negative Numbers
 - Leap year
 - Power of a number
+- ASCII Value
 - ASCII value finder, Vowel or consonant
 - Login and marks validation programs
 
