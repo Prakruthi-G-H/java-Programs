@@ -145,6 +145,8 @@ Some of the important programs included:
 5. Modify the code and experiment with the logic to improve your understanding.
 
 ## 📈 Learning Progress
+This repository is continuously updated as I practice and learn new Java concepts
+
 
 ## 👩‍💻 Author
 
