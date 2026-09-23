@@ -146,7 +146,7 @@ Some of the important programs included:
 
 ## 📈 Learning Progress
 This repository is continuously updated as I practice and learn new Java concepts
-
+More programs and advanced Java concepts will be added progressively
 
 ## 👩‍💻 Author
 
