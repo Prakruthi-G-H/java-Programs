@@ -144,6 +144,7 @@ Some of the important programs included:
 4. Compile and run the file to check the output.
 5. Modify the code and experiment with the logic to improve your understanding.
 
+## 📈 Learning Progress
 
 ## 👩‍💻 Author
 
