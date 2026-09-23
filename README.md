@@ -120,6 +120,7 @@ Some of the important programs included:
 - Leap year
 - Power of a number
 - ASCII Value
+- Vowel and Consonant
 - ASCII value finder, Vowel or consonant
 - Login and marks validation programs
 
