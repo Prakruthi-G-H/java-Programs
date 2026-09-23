@@ -117,7 +117,7 @@ Some of the important programs included:
 - Palindrome and Reverse Number
 - Even and Odd Numbers
 - Positive and Negative Numbers
-- Leap year, Power of a number
+- Leap year
 - ASCII value finder, Vowel or consonant
 - Login and marks validation programs
 
