@@ -125,8 +125,6 @@ Some of the important programs included:
 - Area Calculations
 - Number Validation
 - Login and Marks Validation
-- ASCII value finder, Vowel or consonant
-- Login and marks validation programs
 
 ### ⭐ **Pattern Programs**
 - Increasing/Decreasing Star Patterns
