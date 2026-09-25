@@ -122,6 +122,7 @@ Some of the important programs included:
 - ASCII Value
 - Vowel and Consonant
 - Largest of Two and Three Numbers
+- Area Calculations
 - ASCII value finder, Vowel or consonant
 - Login and marks validation programs
 
