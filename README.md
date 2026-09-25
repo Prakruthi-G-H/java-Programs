@@ -124,6 +124,7 @@ Some of the important programs included:
 - Largest of Two and Three Numbers
 - Area Calculations
 - Number Validation
+- Login and Marks Validation
 - ASCII value finder, Vowel or consonant
 - Login and marks validation programs
 
