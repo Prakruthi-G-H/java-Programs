@@ -127,7 +127,7 @@ Some of the important programs included:
 - Login and Marks Validation
 
 ### ⭐ **Pattern Logic**
-- Increasing/Decreasing Star Patterns
+- Binary Pattern
 - Right and Left-Aligned Triangles
 - Number Pyramids
 - Alphabet patterns
