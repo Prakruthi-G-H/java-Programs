@@ -132,7 +132,7 @@ Some of the important programs included:
 - Right and Right-Aligned Triangles
 - Centered and Inverted Triangles
 - Row and Column Number Patterns
-- Number Pyramids
+- Number Triangle Patterns
 - Alphabet patterns
 - Diamond and Hourglass shapes
 
