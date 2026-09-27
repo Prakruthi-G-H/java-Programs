@@ -133,6 +133,7 @@ Some of the important programs included:
 - Centered and Inverted Triangles
 - Row and Column Number Patterns
 - Number Triangle Patterns
+- Inverted Number Patterns
 - Alphabet patterns
 - Diamond and Hourglass shapes
 
