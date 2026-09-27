@@ -131,6 +131,7 @@ Some of the important programs included:
 - Star Patterns
 - Right and Right-Aligned Triangles
 - Centered and Inverted Triangles
+- Row and Column Number Patterns
 - Number Pyramids
 - Alphabet patterns
 - Diamond and Hourglass shapes
