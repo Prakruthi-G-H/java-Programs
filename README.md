@@ -128,6 +128,7 @@ Some of the important programs included:
 
 ### ⭐ **Pattern Logic**
 - Binary Pattern
+- Star Patterns
 - Right and Left-Aligned Triangles
 - Number Pyramids
 - Alphabet patterns
