@@ -126,7 +126,7 @@ Some of the important programs included:
 - Number Validation
 - Login and Marks Validation
 
-### ⭐ **Pattern Programs**
+### ⭐ **Pattern Logic**
 - Increasing/Decreasing Star Patterns
 - Right and Left-Aligned Triangles
 - Number Pyramids
