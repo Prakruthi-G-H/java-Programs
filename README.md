@@ -136,7 +136,7 @@ Some of the important programs included:
 - Inverted Number Patterns
 - Square Patterns
 
-
+## 🔤 String Logic
 
 
 ## 🛠 Technologies Used
