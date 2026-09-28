@@ -26,7 +26,7 @@ Programs covering fundamental Java logic and problem-solving concepts:
   - Area Calculations
   - And more 
 
-⭐ Pattern Programs  
+### ⭐ Pattern Programs
 Programs focused on nested loops, rows, columns, spacing, and pattern-building logic:
   - Binary Patterns
   - Star Patterns
