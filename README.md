@@ -140,6 +140,7 @@ Some of the important programs included:
 
 - Reverse Word
 - Reverse Word Without Built-in Methods
+- Palindrome Word
 
 ## 🛠 Technologies Used
 
