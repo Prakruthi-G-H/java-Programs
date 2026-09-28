@@ -139,6 +139,7 @@ Some of the important programs included:
 ## 🔤 String Logic
 
 - Reverse Word
+- Reverse Word Without Built-in Methods
 
 ## 🛠 Technologies Used
 
