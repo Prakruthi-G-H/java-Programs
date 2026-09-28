@@ -28,21 +28,21 @@ Programs covering fundamental Java logic and problem-solving concepts:
 
 ### ⭐ Pattern Programs
 Programs focused on nested loops, rows, columns, spacing, and pattern-building logic:
-  - Binary Patterns
-  - Star Patterns
-  - Right Triangle Patterns
-  - Right-Aligned Triangle Patterns
-  - Centered Triangle Patterns
-  - Inverted Triangle Patterns
-  - Number patterns
-  - Number Triangle Patterns
-  - Alphabet patterns
-  - Row Number Patterns
-  - Column Number Patterns
-  - Centered Number Patterns
-  - Inverted Number Patterns
-  - Square Patterns
-  - And more
+
+- Binary Patterns
+- Star Patterns
+- Right Triangle Patterns
+- Right-Aligned Triangle Patterns
+- Centered Triangle Patterns
+- Inverted Triangle Patterns
+- Number Patterns
+- Number Triangle Patterns
+- Row Number Patterns
+- Column Number Patterns
+- Centered Number Patterns
+- Inverted Number Patterns
+- Square Patterns
+- And more
 
 ## 🔤 String Programs
 
