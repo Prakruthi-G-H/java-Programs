@@ -138,6 +138,7 @@ Some of the important programs included:
 
 ## 🔤 String Logic
 
+- Reverse a String
 - Reverse Word
 - Reverse Word Without Built-in Methods
 - Palindrome Word
